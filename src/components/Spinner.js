@@ -8,7 +8,7 @@ const Spinner = () => {
             <div className="sk-circle2 sk-child"></div>
             <div className="sk-circle3 sk-child"></div>
             <div className="sk-circle4 sk-child"></div>
-            <div classNames="sk-circle5 sk-child"></div>
+            <div className="sk-circle5 sk-child"></div>
             <div className="sk-circle6 sk-child"></div>
             <div className="sk-circle7 sk-child"></div>
             <div className="sk-circle8 sk-child"></div>
