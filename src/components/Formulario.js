@@ -85,7 +85,7 @@ const Formulario = ({guardarResumen, guardarCargando}) => {
         guardarError(false);
 
         //Precio base
-        let resultado = 2000;
+        let resultado = 3000000;
 
         //Obtener la diferencia de años
         const diferencia = obtenerDiferenciaYear(year);
